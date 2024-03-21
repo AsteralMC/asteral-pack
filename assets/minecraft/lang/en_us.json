@@ -2951,7 +2951,7 @@
   "disconnect.unknownHost": "Unknown host",
   "editGamerule.default": "Default: %s",
   "editGamerule.title": "Edit Game Rules",
-  "effect.duration.infinite": "∞",
+  "effect.duration.infinite": " ",
   "effect.minecraft.absorption": "Absorption",
   "effect.minecraft.bad_omen": "Bad Omen",
   "effect.minecraft.blindness": "Blindness",
