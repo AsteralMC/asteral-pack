@@ -15,6 +15,6 @@
   {
     "type":"bitmap",
     "file":"mania:gui/bossbar/text.png",
-    "ascent":-1,"height":35,
+    "ascent":8,"height":45,
     "chars":["\ue002"]
   }]}
