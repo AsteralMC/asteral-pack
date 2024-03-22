@@ -64,11 +64,5 @@
     "file":"mania:icons/warnings/yellow_warning.png",
     "ascent":14,"height":15,
     "chars":["\ue059"]
-  },
-  {
-    "type":"bitmap",
-    "file":"mania:icons/warnings/red_warning.png",
-    "ascent":14,"height":15,
-    "chars":["\ue060"]
   }
   ]}

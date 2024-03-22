@@ -79,6 +79,12 @@
   },
   {
     "type":"bitmap",
+    "file":"mania:icons/warnings/red_warning.png",
+    "ascent":14,"height":15,
+    "chars":["⚠"]
+  },
+  {
+    "type":"bitmap",
     "file":"mania:icons/mouse/left_click.png",
     "ascent":9,"height":10,
     "chars":["\ue180"]
