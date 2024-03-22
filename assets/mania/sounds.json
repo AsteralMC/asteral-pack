@@ -1,0 +1,9 @@
+{
+    "game_update": {
+      "category": "ambient",
+      "sounds": [
+        "mania:synth"
+      ],
+      "subtitle": "In-Game change"
+    }
+  }

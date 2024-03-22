@@ -1,3 +1,5 @@
+permissions:
+  contents: write
 name: Optimize resource pack
 on: [push]
 permissions:

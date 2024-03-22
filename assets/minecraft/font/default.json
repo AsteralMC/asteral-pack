@@ -1,0 +1,20 @@
+{"providers":[{
+    "type": "space",
+    "advances": {
+      "➂": 7,
+      "➀": 7,
+      " ": 3
+    }
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/bossbar/timer.png",
+    "ascent":5,"height":38,
+    "chars":["\ue001"]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/bossbar/text.png",
+    "ascent":8,"height":45,
+    "chars":["\ue002"]
+  }]}

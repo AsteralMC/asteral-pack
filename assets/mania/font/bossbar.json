@@ -32,12 +32,12 @@
   {
     "type":"bitmap",
     "file":"mania:gui/bossbar/timer.png",
-    "ascent":9,"height":10,
+    "ascent":5,"height":38,
     "chars":["\ue001"]
   },
   {
     "type":"bitmap",
     "file":"mania:gui/bossbar/text.png",
-    "ascent":9,"height":10,
+    "ascent":-1,"height":35,
     "chars":["\ue002"]
   }]}
