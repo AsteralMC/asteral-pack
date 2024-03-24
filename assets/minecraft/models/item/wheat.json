@@ -1,16 +1,16 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/paper"
+    "layer0": "minecraft:item/wheat"
   },
   "overrides":[
     { 
       "predicate":{"custom_model_data":1},
-      "model":"mania:item/green_triangle"
+      "model":"mania:item/black_piece"
     },
     { 
       "predicate":{"custom_model_data":2},
-      "model":"mania:item/shard"
+      "model":"mania:item/white_piece"
     }
   ]
 }
