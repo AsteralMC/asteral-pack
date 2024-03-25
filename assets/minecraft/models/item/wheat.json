@@ -19,6 +19,30 @@
     { 
       "predicate":{"custom_model_data":4},
       "model":"mania:item/white_pawn"
+    },
+    { 
+      "predicate":{"custom_model_data":5},
+      "model":"mania:item/black_bishop"
+    },
+    { 
+      "predicate":{"custom_model_data":6},
+      "model":"mania:item/white_bishop"
+    },
+    { 
+      "predicate":{"custom_model_data":7},
+      "model":"mania:item/black_queen"
+    },
+    { 
+      "predicate":{"custom_model_data":8},
+      "model":"mania:item/white_queen"
+    },
+    { 
+      "predicate":{"custom_model_data":9},
+      "model":"mania:item/black_king"
+    },
+    { 
+      "predicate":{"custom_model_data":10},
+      "model":"mania:item/white_king"
     }
   ]
 }
