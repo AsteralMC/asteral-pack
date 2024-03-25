@@ -43,6 +43,14 @@
     { 
       "predicate":{"custom_model_data":10},
       "model":"mania:item/white_king"
+    },
+    { 
+      "predicate":{"custom_model_data":11},
+      "model":"mania:item/black_knight"
+    },
+    { 
+      "predicate":{"custom_model_data":12},
+      "model":"mania:item/white_knight"
     }
   ]
 }
