@@ -1,9 +1,51 @@
 {
-    "game_update": {
-      "category": "ambient",
-      "sounds": [
-        "mania:synth"
-      ],
-      "subtitle": "In-Game change"
-    }
+  "game_update": {
+    "category": "ambient",
+    "sounds": [
+      "mania:synth"
+    ],
+    "subtitle": "In-Game change"
+  },
+  "floor_warning": {
+    "category": "ambient",
+    "sounds": [
+      "mania:floorwarning"
+    ],
+    "subtitle": "Platform collapse warning"
+  },
+  "destroy": {
+    "category": "ambient",
+    "sounds": [
+      "mania:destroy"
+    ],
+    "subtitle": "Platform collapsed"
+  },
+  "warning": {
+    "category": "ambient",
+    "sounds": [
+      "mania:destroy2"
+    ],
+    "subtitle": "Platform collapsed"
+  },
+  "notifi": {
+    "category": "ambient",
+    "sounds": [
+      "mania:noti"
+    ],
+    "subtitle": "Game message"
+  },
+  "click": {
+    "category": "ambient",
+    "sounds": [
+      "mania:click"
+    ],
+    "subtitle": "click"
+  },
+  "death": {
+    "category": "ambient",
+    "sounds": [
+      "mania:dying"
+    ],
+    "subtitle": "You died"
   }
+}

@@ -2,7 +2,8 @@
     "type": "space",
     "advances": {
       "➂": 7,
-      "➀": 7
+      "➀": 7,
+      " ": 3
     }
   },
   {
@@ -80,7 +81,7 @@
   {
     "type":"bitmap",
     "file":"mania:icons/warnings/red_warning.png",
-    "ascent":14,"height":15,
+    "ascent":12,"height":15,
     "chars":["⚠"]
   },
   {
