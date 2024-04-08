@@ -2647,7 +2647,7 @@
   "container.furnace": "Furnace",
   "container.grindstone_title": "Repair & Disenchant",
   "container.hopper": "Item Hopper",
-  "container.inventory": "Inventory",
+  "container.inventory": "",
   "container.isLocked": "%s is locked!",
   "container.lectern": "Lectern",
   "container.loom": "Loom",
