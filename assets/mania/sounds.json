@@ -2,7 +2,7 @@
   "game_update": {
     "category": "ambient",
     "sounds": [
-      "mania:synth"
+      "mania:game_update"
     ],
     "subtitle": "In-Game change"
   },
@@ -34,6 +34,13 @@
     ],
     "subtitle": "Game message"
   },
+  "over": {
+    "category": "ambient",
+    "sounds": [
+      "mania:over"
+    ],
+    "subtitle": "Round/Game Over"
+  },
   "click": {
     "category": "ambient",
     "sounds": [
@@ -41,11 +48,25 @@
     ],
     "subtitle": "click"
   },
+  "teleport": {
+    "category": "ambient",
+    "sounds": [
+      "mania:teleport"
+    ],
+    "subtitle": "Teleporting"
+  },
   "death": {
     "category": "ambient",
     "sounds": [
       "mania:dying"
     ],
     "subtitle": "You died"
+  },
+  "panic": {
+    "category": "ambient",
+    "sounds": [
+      "mania:panic"
+    ],
+    "subtitle": "void = win"
   }
 }
