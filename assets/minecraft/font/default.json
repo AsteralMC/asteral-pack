@@ -7,6 +7,13 @@
     }
   },
   {
+    "type": "ttf",
+    "file": "minecraft:negative_spaces.ttf",
+    "shift": [0.0, 0.0],
+    "size": 10.0,
+    "oversample": 1.0
+  },
+  {
     "type":"bitmap",
     "file":"mania:gui/bossbar/timer.png",
     "ascent":5,"height":38,
@@ -17,4 +24,22 @@
     "file":"mania:gui/bossbar/text.png",
     "ascent":8,"height":45,
     "chars":["\ue002"]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/container/chest.png",
+    "ascent":68,"height":256,
+    "chars":[""]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/container/spectate.png",
+    "ascent":68,"height":256,
+    "chars":[""]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/container/settings.png",
+    "ascent":68,"height":256,
+    "chars":[""]
   }]}

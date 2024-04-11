@@ -1,9 +1,58 @@
 {
-    "game_update": {
-      "category": "ambient",
-      "sounds": [
-        "mania:synth"
-      ],
-      "subtitle": "In-Game change"
-    }
+  "game_update": {
+    "category": "ambient",
+    "sounds": [
+      "mania:game_update"
+    ],
+    "subtitle": "In-Game change"
+  },
+  "floor_warning": {
+    "category": "ambient",
+    "sounds": [
+      "mania:floorwarning"
+    ],
+    "subtitle": "Platform collapse warning"
+  },
+  "destroy": {
+    "category": "ambient",
+    "sounds": [
+      "mania:destroy"
+    ],
+    "subtitle": "Platform collapsed"
+  },
+  "warning": {
+    "category": "ambient",
+    "sounds": [
+      "mania:destroy2"
+    ],
+    "subtitle": "Platform collapsed"
+  },
+  "notifi": {
+    "category": "ambient",
+    "sounds": [
+      "mania:noti"
+    ],
+    "subtitle": "Game message"
+  },
+  "over": {
+    "category": "ambient",
+    "sounds": [
+      "mania:over"
+    ],
+    "subtitle": "Round/Game Over"
+  },
+  "death": {
+    "category": "ambient",
+    "sounds": [
+      "mania:dying"
+    ],
+    "subtitle": "You died"
+  },
+  "dodgers": {
+    "category": "ambient",
+    "sounds": [
+      "mania:dodgers"
+    ],
+    "subtitle": "You died"
   }
+}
