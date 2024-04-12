@@ -15,6 +15,13 @@
   },
   {
     "type":"bitmap",
+    "file":"mania:unicodes/mania.png",
+    "ascent":8,
+    "height":10,
+    "chars":["➒"]
+  },
+  {
+    "type":"bitmap",
     "file":"mania:gui/bossbar/timer.png",
     "ascent":5,"height":38,
     "chars":["\ue001"]
