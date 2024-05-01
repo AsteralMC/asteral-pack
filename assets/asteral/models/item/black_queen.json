@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mania:item/black_piece",
-		"particle": "mania:item/black_piece"
+		"0": "asteral:item/black_piece",
+		"particle": "asteral:item/black_piece"
 	},
 	"elements": [
 		{
