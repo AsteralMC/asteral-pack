@@ -7,7 +7,7 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/container/chest.png",
+    "file":"asteral:gui/container/chest.png",
     "ascent":8,"height":13,
     "chars":["\ue001"]
   }

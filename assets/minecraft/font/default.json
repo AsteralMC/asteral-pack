@@ -15,103 +15,103 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/bossbar/timer.png",
+    "file":"asteral:gui/bossbar/timer.png",
     "ascent":5,"height":38,
     "chars":["\ue001"]
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/bossbar/text.png",
+    "file":"asteral:gui/bossbar/text.png",
     "ascent":8,"height":45,
     "chars":["\ue002"]
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/bossbar/playerteam.png",
+    "file":"asteral:gui/bossbar/playerteam.png",
     "ascent":-1,"height":35,
     "chars":["\ue152"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/cross.png",
+    "file":"asteral:icons/cross.png",
     "ascent":10,"height":13,
     "chars":["\ue512"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/pink.png",
+    "file":"asteral:icons/player/pink.png",
     "ascent":10,"height":13,
     "chars":["\ue520"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/green.png",
+    "file":"asteral:icons/player/green.png",
     "ascent":10,"height":13,
     "chars":["\ue521"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/lime.png",
+    "file":"asteral:icons/player/lime.png",
     "ascent":10,"height":13,
     "chars":["\ue522"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/gray.png",
+    "file":"asteral:icons/player/gray.png",
     "ascent":10,"height":13,
     "chars":["\ue523"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/aqua.png",
+    "file":"asteral:icons/player/aqua.png",
     "ascent":10,"height":13,
     "chars":["\ue524"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/purple.png",
+    "file":"asteral:icons/player/purple.png",
     "ascent":10,"height":13,
     "chars":["\ue525"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/orange.png",
+    "file":"asteral:icons/player/orange.png",
     "ascent":10,"height":13,
     "chars":["\ue526"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/blue.png",
+    "file":"asteral:icons/player/blue.png",
     "ascent":10,"height":13,
     "chars":["\ue527"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/red.png",
+    "file":"asteral:icons/player/red.png",
     "ascent":10,"height":13,
     "chars":["\ue528"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/player/yellow.png",
+    "file":"asteral:icons/player/yellow.png",
     "ascent":10,"height":13,
     "chars":["\ue529"]
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/container/chest.png",
+    "file":"asteral:gui/container/chest.png",
     "ascent":68,"height":256,
     "chars":[""]
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/container/spectate.png",
+    "file":"asteral:gui/container/spectate.png",
     "ascent":68,"height":256,
     "chars":[""]
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/container/settings.png",
+    "file":"asteral:gui/container/settings.png",
     "ascent":68,"height":256,
     "chars":[""]
   },

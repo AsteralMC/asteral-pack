@@ -8,91 +8,91 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/aqua.png",
+    "file":"asteral:icons/teams/aqua.png",
     "ascent":9,"height":10,
     "chars":["\ue000"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/blue.png",
+    "file":"asteral:icons/teams/blue.png",
     "ascent":9,"height":10,
     "chars":["\ue001"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/gray.png",
+    "file":"asteral:icons/teams/gray.png",
     "ascent":9,"height":10,
     "chars":["\ue002"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/green.png",
+    "file":"asteral:icons/teams/green.png",
     "ascent":9,"height":10,
     "chars":["\ue003"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/lime.png",
+    "file":"asteral:icons/teams/lime.png",
     "ascent":9,"height":10,
     "chars":["\ue004"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/orange.png",
+    "file":"asteral:icons/teams/orange.png",
     "ascent":9,"height":10,
     "chars":["\ue005"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/pink.png",
+    "file":"asteral:icons/teams/pink.png",
     "ascent":9,"height":10,
     "chars":["\ue006"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/purple.png",
+    "file":"asteral:icons/teams/purple.png",
     "ascent":9,"height":10,
     "chars":["\ue007"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/red.png",
+    "file":"asteral:icons/teams/red.png",
     "ascent":9,"height":10,
     "chars":["\ue008"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/yellow.png",
+    "file":"asteral:icons/teams/yellow.png",
     "ascent":9,"height":10,
     "chars":["\ue009"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/cross.png",
+    "file":"asteral:icons/cross.png",
     "ascent":9,"height":10,
     "chars":["\ue010"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/gray_cross.png",
+    "file":"asteral:icons/gray_cross.png",
     "ascent":9,"height":10,
     "chars":["\ue011"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/warnings/red_warning.png",
+    "file":"asteral:icons/warnings/red_warning.png",
     "ascent":12,"height":15,
     "chars":["⚠"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/mouse/left_click.png",
+    "file":"asteral:icons/mouse/left_click.png",
     "ascent":9,"height":10,
     "chars":["\ue180"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/mouse/right_click.png",
+    "file":"asteral:icons/mouse/right_click.png",
     "ascent":9,"height":10,
     "chars":["\ue181"]
   }

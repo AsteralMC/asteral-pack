@@ -31,13 +31,13 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/bossbar/timer.png",
+    "file":"asteral:gui/bossbar/timer.png",
     "ascent":5,"height":38,
     "chars":["\ue001"]
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/bossbar/text.png",
+    "file":"asteral:gui/bossbar/text.png",
     "ascent":-1,"height":35,
     "chars":["\ue002"]
   }]}

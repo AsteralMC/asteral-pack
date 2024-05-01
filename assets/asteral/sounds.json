@@ -2,70 +2,70 @@
   "game_update": {
     "category": "ambient",
     "sounds": [
-      "mania:game_update"
+      "asteral:game_update"
     ],
     "subtitle": "In-Game change"
   },
   "floor_warning": {
     "category": "ambient",
     "sounds": [
-      "mania:floorwarning"
+      "asteral:floorwarning"
     ],
     "subtitle": "Platform collapse warning"
   },
   "destroy": {
     "category": "ambient",
     "sounds": [
-      "mania:destroy"
+      "asteral:destroy"
     ],
     "subtitle": "Platform collapsed"
   },
   "warning": {
     "category": "ambient",
     "sounds": [
-      "mania:destroy2"
+      "asteral:destroy2"
     ],
     "subtitle": "Platform collapsed"
   },
   "notifi": {
     "category": "ambient",
     "sounds": [
-      "mania:noti"
+      "asteral:noti"
     ],
     "subtitle": "Game message"
   },
   "over": {
     "category": "ambient",
     "sounds": [
-      "mania:over"
+      "asteral:over"
     ],
     "subtitle": "Round/Game Over"
   },
   "click": {
     "category": "ambient",
     "sounds": [
-      "mania:click"
+      "asteral:click"
     ],
     "subtitle": "click"
   },
   "teleport": {
     "category": "ambient",
     "sounds": [
-      "mania:teleport"
+      "asteral:teleport"
     ],
     "subtitle": "Teleporting"
   },
   "death": {
     "category": "ambient",
     "sounds": [
-      "mania:dying"
+      "asteral:dying"
     ],
     "subtitle": "You died"
   },
   "panic": {
     "category": "ambient",
     "sounds": [
-      "mania:panic"
+      "asteral:panic"
     ],
     "subtitle": "void = win"
   }

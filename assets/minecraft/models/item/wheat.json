@@ -6,51 +6,51 @@
   "overrides":[
     { 
       "predicate":{"custom_model_data":1},
-      "model":"mania:item/black_piece"
+      "model":"asteral:item/black_piece"
     },
     { 
       "predicate":{"custom_model_data":2},
-      "model":"mania:item/white_piece"
+      "model":"asteral:item/white_piece"
     },
     { 
       "predicate":{"custom_model_data":3},
-      "model":"mania:item/black_pawn"
+      "model":"asteral:item/black_pawn"
     },
     { 
       "predicate":{"custom_model_data":4},
-      "model":"mania:item/white_pawn"
+      "model":"asteral:item/white_pawn"
     },
     { 
       "predicate":{"custom_model_data":5},
-      "model":"mania:item/black_bishop"
+      "model":"asteral:item/black_bishop"
     },
     { 
       "predicate":{"custom_model_data":6},
-      "model":"mania:item/white_bishop"
+      "model":"asteral:item/white_bishop"
     },
     { 
       "predicate":{"custom_model_data":7},
-      "model":"mania:item/black_queen"
+      "model":"asteral:item/black_queen"
     },
     { 
       "predicate":{"custom_model_data":8},
-      "model":"mania:item/white_queen"
+      "model":"asteral:item/white_queen"
     },
     { 
       "predicate":{"custom_model_data":9},
-      "model":"mania:item/black_king"
+      "model":"asteral:item/black_king"
     },
     { 
       "predicate":{"custom_model_data":10},
-      "model":"mania:item/white_king"
+      "model":"asteral:item/white_king"
     },
     { 
       "predicate":{"custom_model_data":11},
-      "model":"mania:item/black_knight"
+      "model":"asteral:item/black_knight"
     },
     { 
       "predicate":{"custom_model_data":12},
-      "model":"mania:item/white_knight"
+      "model":"asteral:item/white_knight"
     }
   ]
 }
