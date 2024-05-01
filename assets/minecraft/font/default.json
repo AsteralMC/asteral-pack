@@ -51,61 +51,61 @@
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/pink.png",
+    "file":"asteral:icons/teams/pink.png",
     "ascent":10,"height":13,
     "chars":["\ue520"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/green.png",
+    "file":"asteral:icons/teams/green.png",
     "ascent":10,"height":13,
     "chars":["\ue521"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/lime.png",
+    "file":"asteral:icons/teams/lime.png",
     "ascent":10,"height":13,
     "chars":["\ue522"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/gray.png",
+    "file":"asteral:icons/teams/gray.png",
     "ascent":10,"height":13,
     "chars":["\ue523"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/aqua.png",
+    "file":"asteral:icons/teams/aqua.png",
     "ascent":10,"height":13,
     "chars":["\ue524"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/purple.png",
+    "file":"asteral:icons/teams/purple.png",
     "ascent":10,"height":13,
     "chars":["\ue525"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/orange.png",
+    "file":"asteral:icons/teams/orange.png",
     "ascent":10,"height":13,
     "chars":["\ue526"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/blue.png",
+    "file":"asteral:icons/teams/blue.png",
     "ascent":10,"height":13,
     "chars":["\ue527"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/red.png",
+    "file":"asteral:icons/teams/red.png",
     "ascent":10,"height":13,
     "chars":["\ue528"]
   },
   {
     "type":"bitmap",
-    "file":"asteral:icons/player/yellow.png",
+    "file":"asteral:icons/teams/yellow.png",
     "ascent":10,"height":13,
     "chars":["\ue529"]
   },
