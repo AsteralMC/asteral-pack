@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/end_rod"
+  },
+  "overrides":[
+    { 
+      "predicate":{"custom_model_data":1},
+      "model":"asteral:item/gold_medal"
+    },
+    { 
+      "predicate":{"custom_model_data":2},
+      "model":"asteral:item/silver_medal"
+    },
+    { 
+      "predicate":{"custom_model_data":3},
+      "model":"asteral:item/bronze_medal"
+    }
+  ]
+}

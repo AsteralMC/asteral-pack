@@ -7,23 +7,25 @@
     }
   },
   {
-    "type": "reference",
-    "id": "minecraft:include/space"
-  },
-  {
-    "type": "reference",
-    "id": "minecraft:include/default"
-  },
-  {
-    "type": "reference",
-    "id": "minecraft:include/unifont"
-  },
-  {
     "type": "ttf",
     "file": "minecraft:negative_spaces.ttf",
     "shift": [0.0, 0.0],
     "size": 10.0,
     "oversample": 1.0
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:icons/asteralicon.png",
+    "ascent":32,
+    "height":64,
+    "chars":["➒"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:icons/glowmark.png",
+    "ascent":32,
+    "height":64,
+    "chars":["➓"]
   },
   {
     "type":"bitmap",
@@ -42,12 +44,6 @@
     "file":"asteral:gui/bossbar/playerteam.png",
     "ascent":-1,"height":35,
     "chars":["\ue152"]
-  },
-  {
-    "type":"bitmap",
-    "file":"asteral:icons/cross.png",
-    "ascent":10,"height":13,
-    "chars":["\ue512"]
   },
   {
     "type":"bitmap",

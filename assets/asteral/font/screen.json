@@ -8,7 +8,7 @@
   {
     "type":"bitmap",
     "file":"asteral:gui/blind.png",
-    "ascent":100,"height":10000,
+    "ascent":1000,"height":10000,
     "chars":["\ue001"]
   }
   ]}
