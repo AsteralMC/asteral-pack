@@ -1,0 +1,14 @@
+{"providers":[{
+    "type": "space",
+    "advances": {
+      "➂": 7,
+      "➀": 7
+    }
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/container/chest.png",
+    "ascent":8,"height":13,
+    "chars":["\ue001"]
+  }
+  ]}

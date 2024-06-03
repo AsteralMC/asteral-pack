@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/begbanner"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-0.5, 1, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"scale": [4, 2.54, 0.59]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, -0.5],
+			"scale": [4, 2, 0]
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+  "game_update": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:game_update"
+    ],
+    "subtitle": "In-Game change"
+  },
+  "floor_warning": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:floorwarning"
+    ],
+    "subtitle": "Platform collapse warning"
+  },
+  "destroy": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:destroy"
+    ],
+    "subtitle": "Platform collapsed"
+  },
+  "warning": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:destroy2"
+    ],
+    "subtitle": "Platform collapsed"
+  },
+  "notifi": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:noti"
+    ],
+    "subtitle": "Game message"
+  },
+  "over": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:over"
+    ],
+    "subtitle": "Round/Game Over"
+  },
+  "click": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:click"
+    ],
+    "subtitle": "click"
+  },
+  "teleport": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:teleport"
+    ],
+    "subtitle": "Teleporting"
+  },
+  "death": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:dying"
+    ],
+    "subtitle": "You died"
+  },
+  "panic": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:panic"
+    ],
+    "subtitle": "void = win"
+  }
+}
