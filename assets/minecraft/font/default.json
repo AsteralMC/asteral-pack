@@ -14,18 +14,34 @@
     "oversample": 1.0
   },
   {
+    "file": "minecraft:font/ascii.png",
+    "ascent": 8,
+    "chars": [
+      "ÀÁÂÈÊËÍÓÔÕÚßãõğİ",
+      "ıŒœŞşŴŵžȇ\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      " !\"#$%\u0026\u0027()*+,-./",
+      "0123456789:;\u003c\u003d\u003e?",
+      "@ABCDEFGHIJKLMNO",
+      "PQRSTUVWXYZ[\\]^_",
+      "`abcdefghijklmno",
+      "pqrstuvwxyz{|}~\u0000",
+      "ÇüéâäàåçêëèïîìÄÅ",
+      "ÉæÆôöòûùÿÖÜø£Ø×ƒ",
+      "áíóúñÑªº¿®¬½¼¡«»",
+      "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+      "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+      "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+      "αβΓπΣσμτΦΘΩδ∞∅∈∩",
+      "≡±≥≤⌠⌡÷≈°∙·√ⁿ²■\u0000"
+    ],
+    "type": "bitmap"
+  },
+  {
     "type":"bitmap",
     "file":"asteral:icons/asteralicon.png",
     "ascent":32,
     "height":64,
     "chars":["➒"]
-  },
-  {
-    "type":"bitmap",
-    "file":"asteral:icons/glowmark.png",
-    "ascent":32,
-    "height":64,
-    "chars":["➓"]
   },
   {
     "type":"bitmap",

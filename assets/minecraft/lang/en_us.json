@@ -4447,7 +4447,7 @@
   "mco.upload.verifying": "Verifying your world",
   "menu.convertingLevel": "Converting world",
   "menu.disconnect": "\u00A7cLeave Server",
-  "menu.game": " ",
+  "menu.game": "",
   "menu.generatingLevel": "Generating world",
   "menu.generatingTerrain": "Building terrain",
   "menu.loadingForcedChunks": "Loading forced chunks for dimension %s",
