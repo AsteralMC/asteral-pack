@@ -66,12 +66,7 @@
     "ascent":9,"height":10,
     "chars":["\ue009"]
   },
-  {
-    "type":"bitmap",
-    "file":"asteral:icons/cross.png",
-    "ascent":9,"height":10,
-    "chars":["\ue010"]
-  },
+
   {
     "type":"bitmap",
     "file":"asteral:icons/gray_cross.png",

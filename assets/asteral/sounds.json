@@ -68,5 +68,12 @@
       "asteral:panic"
     ],
     "subtitle": "void = win"
+  },
+  "intro": {
+    "category": "ambient",
+    "sounds": [
+      "asteral:intro"
+    ],
+    "subtitle": "welcome to game!"
   }
 }
