@@ -3,36 +3,14 @@
     "advances": {
       "➂": 7,
       "➀": 7,
-      " ": 3
+      " ": 4
     }
   },
-  {
-    "file": "minecraft:font/ascii.png",
-    "ascent": 8,
-    "chars": [
-      "ÀÁÂÈÊËÍÓÔÕÚßãõğİ",
-      "ıŒœŞşŴŵžȇ\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-      " !\"#$%\u0026\u0027()*+,-./",
-      "0123456789:;\u003c\u003d\u003e?",
-      "@ABCDEFGHIJKLMNO",
-      "PQRSTUVWXYZ[\\]^_",
-      "`abcdefghijklmno",
-      "pqrstuvwxyz{|}~\u0000",
-      "ÇüéâäàåçêëèïîìÄÅ",
-      "ÉæÆôöòûùÿÖÜø£Ø×ƒ",
-      "áíóúñÑªº¿®¬½¼¡«»",
-      "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
-      "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
-      "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
-      "αβΓπΣσμτΦΘΩδ∞∅∈∩",
-      "≡±≥≤⌠⌡÷≈°∙·√ⁿ²■\u0000"
-    ],
-    "type": "bitmap"
-  },
+  {"type":"ttf","file":"asteral:hud.ttf","shift":[0.0,4.0],"size":7,"oversample":4},
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/timer.png",
-    "ascent":5,"height":38,
+    "ascent":7,"height":18,
     "chars":["\ue001"]
   },
   {
@@ -40,4 +18,77 @@
     "file":"asteral:gui/bossbar/text.png",
     "ascent":-1,"height":35,
     "chars":["\ue002"]
-  }]}
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/playerteam.png",
+    "ascent":-1,"height":35,
+    "chars":["\ue003"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_0.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue004"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_1.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue005"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_2.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue006"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_3.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue007"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_4.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue008"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_5.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue009"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_6.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue010"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_7.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue011"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_8.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue012"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_9.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue013"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:gui/bossbar/time_10.png",
+    "ascent":-8,"height":1,
+    "chars":["\ue014"]
+  }
+  ]}

@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "asteral:item/placement/winnerthing"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, 0, 90]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 16.75, 0]
+		}
+	}
+}

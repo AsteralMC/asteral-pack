@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potato"
+  },
+  "overrides":[
+    {
+      "predicate":{"custom_model_data":1},
+      "model":"asteral:item/potato_1"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"asteral:item/potato_2"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "asteral:item/hub/ligthbeam",
+		"particle": "asteral:item/hub/ligthbeam"
+	},
+	"elements": [
+		{
+			"from": [5.8, 3, 4],
+			"to": [10, 7, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.9, 4, 7]},
+			"faces": {
+				"north": {"uv": [10, 0, 14.25, 4], "texture": "#0"},
+				"east": {"uv": [0, 8, 7.5, 12], "texture": "#0"},
+				"south": {"uv": [10, 4, 14.25, 8], "texture": "#0"},
+				"west": {"uv": [8, 8, 15.5, 12], "texture": "#0"},
+				"up": {"uv": [4.25, 7.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [9.25, 0, 5, 7.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

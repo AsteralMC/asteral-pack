@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/light_blue_dye"
+  },
+  "overrides":[
+    {
+      "predicate":{"custom_model_data":1},
+      "model":"asteral:item/shard"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"asteral:item/one_shard"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"asteral:item/two_shard"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"asteral:item/three_shard"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"asteral:item/four_shard"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"asteral:item/full_shard"
+    }
+  ]
+}

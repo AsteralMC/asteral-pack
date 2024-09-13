@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lime_dye"
+  },
+  "overrides":[
+    {
+      "predicate":{"custom_model_data":1},
+      "model":"asteral:item/menu/teams/redicon"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"asteral:item/menu/teams/orangeicon"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"asteral:item/menu/teams/yellowicon"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"asteral:item/menu/teams/limeicon"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"asteral:item/menu/teams/aquaicon"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"asteral:item/menu/teams/blueicon"
+    },
+    {
+      "predicate":{"custom_model_data":7},
+      "model":"asteral:item/menu/teams/purpleicon"
+    },
+    {
+      "predicate":{"custom_model_data":8},
+      "model":"asteral:item/menu/teams/pinkicon"
+    }
+  ]
+}

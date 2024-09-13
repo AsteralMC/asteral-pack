@@ -1,20 +1,21 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/end_rod"
-  },
+  "parent": "minecraft:block/end_rod",
   "overrides":[
     { 
       "predicate":{"custom_model_data":1},
-      "model":"asteral:item/gold_medal"
+      "model":"asteral:item/placement/gold_medal"
     },
     { 
       "predicate":{"custom_model_data":2},
-      "model":"asteral:item/silver_medal"
+      "model":"asteral:item/placement/silver_medal"
     },
     { 
       "predicate":{"custom_model_data":3},
-      "model":"asteral:item/bronze_medal"
+      "model":"asteral:item/placement/bronze_medal"
+    },
+    { 
+      "predicate":{"custom_model_data":4},
+      "model":"asteral:item/placement/winner"
     }
   ]
 }
