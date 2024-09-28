@@ -46,7 +46,15 @@
     },
     { 
       "predicate":{"custom_model_data":11},
-      "model":"asteral:item/menu/button/green_triangle"
+      "model":"asteral:item/menu/specempty"
+    },
+    { 
+      "predicate":{"custom_model_data":12},
+      "model":"asteral:item/menu/specclose"
+    },
+    { 
+      "predicate":{"custom_model_data":13},
+      "model":"asteral:item/menu/specopen"
     }
   ]
 }

@@ -15,8 +15,8 @@
   },
   {
     "type":"bitmap",
-    "file":"asteral:gui/bossbar/text.png",
-    "ascent":-1,"height":35,
+    "file":"asteral:gui/bossbar/timer_wide.png",
+    "ascent":7,"height":18,
     "chars":["\ue002"]
   },
   {
@@ -90,5 +90,11 @@
     "file":"asteral:gui/bossbar/time_10.png",
     "ascent":-8,"height":1,
     "chars":["\ue014"]
+  },
+  {
+    "type":"bitmap",
+    "file":"asteral:icons/misc/skull.png",
+    "ascent":4,"height":10,
+    "chars":["💀"]
   }
   ]}
