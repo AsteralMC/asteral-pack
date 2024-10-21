@@ -6,17 +6,17 @@
       " ": 4
     }
   },
-  {"type":"ttf","file":"asteral:hud.ttf","shift":[0.0,4.0],"size":7,"oversample":4},
+  {"type":"ttf","file":"asteral:hud.ttf","shift":[0.0,11.0],"size":7,"oversample":4},
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/timer.png",
-    "ascent":7,"height":18,
+    "ascent":0,"height":18,
     "chars":["\ue001"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/timer_wide.png",
-    "ascent":7,"height":18,
+    "ascent":0,"height":18,
     "chars":["\ue002"]
   },
   {
@@ -28,73 +28,73 @@
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_0.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue004"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_1.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue005"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_2.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue006"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_3.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue007"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_4.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue008"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_5.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue009"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_6.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue010"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_7.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue011"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_8.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue012"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_9.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue013"]
   },
   {
     "type":"bitmap",
     "file":"asteral:gui/bossbar/time_10.png",
-    "ascent":-8,"height":1,
+    "ascent":-15,"height":1,
     "chars":["\ue014"]
   },
   {
     "type":"bitmap",
     "file":"asteral:icons/misc/skull.png",
-    "ascent":4,"height":10,
+    "ascent":-3,"height":10,
     "chars":["💀"]
   }
   ]}

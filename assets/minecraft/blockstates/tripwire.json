@@ -1,0 +1,61 @@
+{
+    "variants": {
+        "disarmed=true,attached=false,east=false,north=true,south=false,west=false": {
+            "model": "asteral:block/jumppad"
+        },
+        "disarmed=true,attached=false,east=true,north=false,south=false,west=false": {
+            "model": "asteral:block/uppad"
+        },
+        "disarmed=true,attached=false,east=false,north=false,south=true,west=false": {
+            "model": "asteral:block/megapad"
+        },
+        "disarmed=false,attached=false,east=false,north=true,south=false,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=false,south=false,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=false,south=false,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=false,south=false,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=false,south=true,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=false,south=true,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=true,south=false,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=true,south=true,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=false,north=true,south=true,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=false,south=false,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=false,south=true,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=false,south=true,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=true,south=false,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=true,south=false,west=true": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=true,south=true,west=false": {
+            "model": "asteral:block/speedpad"
+        },
+        "disarmed=false,attached=false,east=true,north=true,south=true,west=true": {
+            "model": "asteral:block/speedpad"
+        }
+    }
+}
