@@ -7,7 +7,8 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"scale": [1.4, 1.4, 1.4]
+			"translation": [0.25, 0, 0],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	}
 }

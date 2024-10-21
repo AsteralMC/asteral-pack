@@ -2,13 +2,12 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "asteral:item/menu/trueb"
+		"layer0": "asteral:item/menu/button/trueb"
 	},
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [-0.5, 1, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"scale": [1.3, 1.3, 1.3]
 		}
 	}
 }

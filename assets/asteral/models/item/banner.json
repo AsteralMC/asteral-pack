@@ -1,22 +1,41 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/generated",
+	"texture_size": [778, 390],
 	"textures": {
-		"layer0": "item/begbanner"
+		"0": "item/begbanner",
+		"particle": "item/begbanner"
 	},
-	"gui_light": "front",
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 26, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [16, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 16], "texture": "#0"}
+			}
+		}
+	],
 	"display": {
-		"gui": {
-			"translation": [-0.5, 1, 0],
-			"scale": [1.2, 1.2, 1.2]
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-5.25, 6, -5.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-5.25, 6, -5.5]
 		},
 		"head": {
-			"scale": [4, 2.54, 0.59]
+			"translation": [0, 69.5, 28.25],
+			"scale": [4, 4, 4]
 		},
 		"fixed": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 0, -0.5],
-			"scale": [4, 2, 0]
+			"translation": [0, 0, 27],
+			"scale": [4, 4, 4]
 		}
 	}
 }

@@ -4,41 +4,37 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides":[
-    { 
-      "predicate":{"custom_model_data":20},
-      "model":"asteral:item/green_triangle"
-    },
     {
       "predicate":{"custom_model_data":1},
       "model":"asteral:item/menu/speye"
     },
     {
       "predicate":{"custom_model_data":2},
-      "model":"asteral:item/cover"
-    },
-    {
-      "predicate":{"custom_model_data":3},
       "model":"asteral:item/menu/wrench"
     },
     {
-      "predicate":{"custom_model_data":4},
+      "predicate":{"custom_model_data":3},
       "model":"asteral:item/menu/check"
     },
     {
-      "predicate":{"custom_model_data":5},
+      "predicate":{"custom_model_data":4},
       "model":"asteral:item/menu/cross"
     },
     {
-      "predicate":{"custom_model_data":6},
+      "predicate":{"custom_model_data":5},
       "model":"asteral:item/menu/wing"
     },
     {
-      "predicate":{"custom_model_data":7},
+      "predicate":{"custom_model_data":6},
       "model":"asteral:item/menu/c"
     },
     {
+      "predicate":{"custom_model_data":7},
+      "model":"asteral:item/menu/c-"
+    },
+    {
       "predicate":{"custom_model_data":8},
-      "model":"asteral:item/menu/c+"
+      "model":"asteral:item/menu/skull"
     },
     {
       "predicate":{"custom_model_data":9},
@@ -50,7 +46,15 @@
     },
     { 
       "predicate":{"custom_model_data":11},
-      "model":"asteral:item/shard"
+      "model":"asteral:item/menu/specempty"
+    },
+    { 
+      "predicate":{"custom_model_data":12},
+      "model":"asteral:item/menu/specclose"
+    },
+    { 
+      "predicate":{"custom_model_data":13},
+      "model":"asteral:item/menu/specopen"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "asteral:item/placement/gold_medal"
+	},
+	"gui_light": "front",
+	"display": {
+		"head": {
+			"translation": [0, -0.5, 7.5],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}
