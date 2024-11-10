@@ -5,5 +5,5 @@ Everything from this pack is ONLY for usage by the Astrals. Original (including 
 Credits:
 - Vanilla Tweaks
 
-![version](https://img.shields.io/badge/Minecraft-1.21-8403fc?style=for-the-badge) 
+![version](https://img.shields.io/badge/Minecraft-1.21.3-8403fc?style=for-the-badge) 
 
